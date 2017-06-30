@@ -1,4 +1,5 @@
 language: php
+// a comment 
 php:
   - 5.5
   - 5.4
