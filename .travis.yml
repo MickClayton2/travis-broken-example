@@ -1,5 +1,5 @@
 language: php
-// a comment 
+// a comment to try to cause Travis to run
 php:
   - 5.5
   - 5.4
